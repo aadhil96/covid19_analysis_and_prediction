@@ -3,6 +3,10 @@
 This notebook analysis and predict the spread of the novel coronavirus, also known as SARS-CoV-2
 The data analysis starts on 2/11/2020, the disease is officially named COVID-19 by the World Health Organization to 3/22/2020
 
+![CoronaVirusHeader-Final-3](https://user-images.githubusercontent.com/28821226/77330784-d57afe80-6d45-11ea-9ac7-9110f15c5a61.jpg)
+
+
+
 ## What is Covid-19 ?
 Coronaviruses (CoV) are a large family of viruses that cause illness ranging from the common cold to more severe 
 diseases such as Middle East Respiratory Syndrome (MERS-CoV) and Severe Acute Respiratory Syndrome (SARS-CoV). 
